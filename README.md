@@ -1,2 +1,2 @@
-예산 계산기 앱
-https://jk6722.github.io/react-budge-deploy-test-app
+# 예산 계산기 앱
+[Demo](https://jk6722.github.io/react-budge-deploy-test-app)
